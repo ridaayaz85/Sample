@@ -1,4 +1,4 @@
 # Sample
 
 
-Heloo it's just a smaple 
+Hello Sample.
